@@ -129,7 +129,7 @@ export function Footer() {
                 </a>
               </li>
               <li>
-                <a href="https://rafid2005.github.io/Portfolio/" target="_blank" rel="noopener noreferrer" className="text-sm text-slate-500 hover:text-white transition-colors flex items-center gap-2.5 group">
+                <a href="https://afrainkabirrafid.qzz.io/" target="_blank" rel="noopener noreferrer" className="text-sm text-slate-500 hover:text-white transition-colors flex items-center gap-2.5 group">
                   <Globe className="w-4 h-4 text-slate-600 group-hover:text-primary transition-colors" />
                   Portfolio
                 </a>
@@ -147,7 +147,7 @@ export function Footer() {
             <p className="text-xs text-slate-600">
               তৈরি করেছেন{' '}
               <a
-                href="https://rafid2005.github.io/Portfolio/"
+                href="https://afrainkabirrafid.qzz.io/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-slate-400 hover:text-primary transition-colors"

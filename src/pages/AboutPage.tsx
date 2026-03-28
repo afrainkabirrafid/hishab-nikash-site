@@ -35,8 +35,8 @@ const contactInfo = [
   {
     icon: Globe,
     label: 'পোর্টফোলিও',
-    value: 'rafid2005.github.io/Portfolio',
-    href: 'https://rafid2005.github.io/Portfolio/',
+    value: 'afrainkabirrafid.qzz.io',
+    href: 'https://afrainkabirrafid.qzz.io/',
   },
   {
     icon: Facebook,
